@@ -20,6 +20,6 @@ onInstall:
   
 success: |
  Below you will find your admin panel link, username and password.  
-  Admin panel URL: https://${nodes.centos-vps.extIPs}:8090 
-  Admin name: admin  
-  Password: 1234567 
+ Admin panel URL: https://${nodes.centos-vps.extIPs}:8090 
+ Admin name: admin  
+ Password: 1234567 
